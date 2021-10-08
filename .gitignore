@@ -1,0 +1,9 @@
+clienteftp/Debug
+clienteftp/x64
+clienteftp/clienteftp.sln
+clienteftp/.vs
+
+servidorftp/Debug
+servidorftp/x64
+servidorftp/clienteftp.sln
+servidorftp/.vs
