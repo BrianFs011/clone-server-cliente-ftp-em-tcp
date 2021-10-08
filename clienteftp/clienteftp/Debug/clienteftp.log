@@ -1,0 +1,6 @@
+﻿  clienteftp.cpp
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(160,24): warning C4018: '<': signed/unsigned mismatch
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(184,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(427,20): warning C4018: '<': signed/unsigned mismatch
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(402): warning C4715: 'funConnect': not all control paths return a value
+  clienteftp.vcxproj -> E:\Programacao\c++\faculdade\redes\FTP\clienteftp\Debug\clienteftp.exe

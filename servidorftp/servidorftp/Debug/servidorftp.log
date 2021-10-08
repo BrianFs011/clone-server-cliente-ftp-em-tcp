@@ -1,0 +1,8 @@
+﻿  servidorftp.cpp
+E:\Programacao\c++\faculdade\redes\FTP\servidorftp\servidorftp\servidorftp.cpp(143,11): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+E:\Programacao\c++\faculdade\redes\FTP\servidorftp\servidorftp\servidorftp.cpp(150,11): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+E:\Programacao\c++\faculdade\redes\FTP\servidorftp\servidorftp\servidorftp.cpp(281,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\servidorftp\servidorftp\servidorftp.cpp(477,23): warning C4018: '<': signed/unsigned mismatch
+E:\Programacao\c++\faculdade\redes\FTP\servidorftp\servidorftp\servidorftp.cpp(621,20): warning C4018: '<': signed/unsigned mismatch
+E:\Programacao\c++\faculdade\redes\FTP\servidorftp\servidorftp\servidorftp.cpp(206): warning C4715: 'shutdown': not all control paths return a value
+  servidorftp.vcxproj -> E:\Programacao\c++\faculdade\redes\FTP\servidorftp\Debug\servidorftp.exe

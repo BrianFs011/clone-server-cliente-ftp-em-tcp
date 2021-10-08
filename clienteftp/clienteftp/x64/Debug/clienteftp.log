@@ -1,0 +1,10 @@
+﻿  clienteftp.cpp
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(121,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(147,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(168,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(175,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(188,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(373,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(378,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Programacao\c++\faculdade\redes\FTP\clienteftp\clienteftp\clienteftp.cpp(356): warning C4715: 'funConnect': not all control paths return a value
+  clienteftp.vcxproj -> E:\Programacao\c++\faculdade\redes\FTP\clienteftp\x64\Debug\clienteftp.exe
